@@ -1,2 +1,2 @@
 # White Cell Game v1
-This is only a Gamemaker Studio 2 project file export (the free version of Gamemaker 2 does not allow exporting). It cannot be run as an executable. The game is a simple Asteroid clone. 
+This is only a Gamemaker Studio 2 project file export (the free version of Gamemaker 2 does not allow exporting). It cannot be run as an executable. The game is a simple Asteroid clone. The player controls the white blood cell with the WASD keys, pressing spacebar to shoot antibodies. The more viruses that are hit by the antibody projectiles, the more the viruses multiply. This was a good way to get familiar with GameMaker Studio 2. It provides a decent built-in image editor and a simple coding language. 
